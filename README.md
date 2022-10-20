@@ -24,3 +24,12 @@ Below is the complete information about all the columns in the dataset:
 
 We will analyze the performance of Virat Kohli in ODI matches between that time period and find out insights that the naked eye can't
 <br>
+
+
+<h2>Plotly</h2>
+For some technical reason plotly graphs are not showing up in the notebook, so  here they are: 
+
+<img src="https://github.com/VirajBhatPrabhu/Virat-Kohlis-performace-Analysis/blob/main/images/newplot%20(1).png" alt="img1" style="width:700px;height:500px;">
+<img src="https://github.com/VirajBhatPrabhu/Virat-Kohlis-performace-Analysis/blob/main/images/newplot%20(2).png" alt="img2" style="width:700px;height:500px;">
+<img src="https://github.com/VirajBhatPrabhu/Virat-Kohlis-performace-Analysis/blob/main/images/newplot%20(3).png" alt="img3" style="width:700px;height:500px;">
+<img src="https://github.com/VirajBhatPrabhu/Virat-Kohlis-performace-Analysis/blob/main/images/newplot%20(4).png" alt="img4" style="width:700px;height:500px;">
